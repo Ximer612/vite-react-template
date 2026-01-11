@@ -1,6 +1,5 @@
 // src/App.tsx
 
-import { useState } from "react";
 import "./App.css";
 import Header from "./Header";
 import LoremIpsum from "./LoremIpsum";
